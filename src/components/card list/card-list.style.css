@@ -1,0 +1,13 @@
+.card-list-container {
+
+/* width: 85vw; */
+width: 98vw;
+margin: 30 auto;
+
+display: grid;
+
+grid-template-columns: 1fr 1fr 1fr 1fr;
+
+grid-gap: 20px;
+
+}
