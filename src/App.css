@@ -1,9 +1,4 @@
 #root {
-  /* margin: 0 auto;
-
-  min-width: 100vw; */
-  /* margin-left: 1.5%; */
- /* width: 89%;  */
   min-width: 3vw;
 }
 .app-container{
@@ -20,4 +15,8 @@ align-items: center;
   margin-bottom: 10px;
   color: #c00cca;
   font-family: "Rubik Gemstones", system-ui;
+}
+
+.message{
+  color: azure;
 }
